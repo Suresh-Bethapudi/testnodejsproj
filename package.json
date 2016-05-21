@@ -1,0 +1,22 @@
+{
+  "name": "testnodejsproj",
+  "version": "1.0.0",
+  "description": "node js basics",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suresh-Bethapudi/testnodejsproj.git"
+  },
+  "author": "Suresh Bethapudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suresh-Bethapudi/testnodejsproj/issues"
+  },
+  "homepage": "https://github.com/Suresh-Bethapudi/testnodejsproj#readme",
+  "dependencies": {
+    "mocha": "^2.4.5"
+  }
+}
