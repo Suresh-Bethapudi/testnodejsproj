@@ -4,7 +4,7 @@
   "description": "node js basics",
   "main": "main.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Suresh-Bethapudi/testnodejsproj#readme",
   "dependencies": {
+    "express": "^4.13.4",
     "mocha": "^2.4.5"
   }
 }
