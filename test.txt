@@ -16,3 +16,15 @@ How to configure password for git.
 4)go the project workspace direcotry in command line and give the following command.
 
 git remote set-url origin ssh://git@github.gapinc.dev/regional-inventory/rio.git
+commit in master.
+
+
+
+
+
+commit one in brone.
+
+2 commit in master
+
+2nd commit in brone.
+second commit in brone.
