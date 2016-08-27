@@ -3,6 +3,4 @@ test file added.
 
 
 
-2nd commit
-
-1st commit
+commit in master.
