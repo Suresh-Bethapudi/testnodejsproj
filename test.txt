@@ -14,3 +14,9 @@ How to configure password for git.
 4)go the project workspace direcotry in command line and give the following command.
 
 commit in master.
+
+
+
+
+
+commit one in brone.
