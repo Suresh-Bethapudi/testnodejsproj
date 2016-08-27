@@ -3,9 +3,7 @@ test file added.
 
 
 
-2nd commit
 
-1st commit
 
 
 How to configure password for git.
@@ -15,4 +13,4 @@ How to configure password for git.
 3)go the git hub to your project uri and open settings(user settings) and add the above key.
 4)go the project workspace direcotry in command line and give the following command.
 
-git remote set-url origin ssh://git@github.gapinc.dev/regional-inventory/rio.git
+commit in master.
